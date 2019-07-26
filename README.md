@@ -22,4 +22,4 @@ const minRoom = 2;
 
 There's some tree traversal to ensure each room is connected and accessible, but an issue in the drawing code resulting in visual glitches.
 
-- gabrieloc
+\- gabrieloc
